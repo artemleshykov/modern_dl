@@ -62,4 +62,3 @@ CS 231n web demos:
 - http://vision.stanford.edu/teaching/cs231n-demos/linear-classify/  
 - https://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html  
 
-- https://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html
