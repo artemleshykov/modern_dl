@@ -57,3 +57,9 @@ Assignment results see @ RESULTS.csv
 - Dense - Dense - Dense, Functional API.
 - Conv - Dense - Dense, Functional API.
 - Conv - Conv - Dense, Functional API.
+
+CS 231n web demos:  
+- http://vision.stanford.edu/teaching/cs231n-demos/linear-classify/  
+- https://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html  
+
+- https://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html
