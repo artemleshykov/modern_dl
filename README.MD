@@ -13,3 +13,4 @@
 - [видео по ML system design на русском](https://www.youtube.com/watch?v=fUFzkQUCPC0)
 - [статья на хабре](https://habr.com/ru/company/ods/blog/698698/)
 - [ML system design CS328](https://stanford-cs329s.github.io/)
+- [MLSys book](https://disk.yandex.ru/i/YdSNwWrjGh-PYA)
